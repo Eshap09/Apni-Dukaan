@@ -1,0 +1,11 @@
+.slider__title{
+    font-weight: 900 !important;
+    font-size: 20px !important;
+    margin-left: 5px !important;
+}
+
+.MuiSlider-root {
+    color:rgba(19, 17, 18, 0.76) !important;
+    margin-top: 40px;
+    margin-left: -25px;
+}

@@ -1,0 +1,49 @@
+.sidebar{
+    width:100%;
+    margin-left:40px;
+    height:fit-content;
+    padding-left: 10px;
+}
+
+.sortby{
+    margin-left:20px;
+    margin-top: 10px;;
+}
+
+.brand__heading{
+    color: black !important;
+    font-weight: 900 !important;
+    font-size: large !important;
+    margin-top: -10px !important;
+    margin-left:-20px !important;
+}
+
+.brand__checkbox  {
+    margin-bottom: -7px !important;
+}
+
+.category__checkbox{
+    margin-bottom: -7px !important;
+}
+
+.category__heading{
+    color: black !important;
+    font-weight: 900 !important;
+    font-size: large !important;
+    margin-left:-20px !important;
+}
+
+.filters__text{
+    margin-top: 30px;
+    margin-left:-30px;
+    padding-left: 10px;
+    width:90%;
+    border-bottom: 1px solid black;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked{
+    color:black !important;
+}
+
